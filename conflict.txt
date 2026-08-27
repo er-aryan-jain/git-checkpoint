@@ -1,1 +1,1 @@
-Git is difficult
+Git is easy to learn with practice
